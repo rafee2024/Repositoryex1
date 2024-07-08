@@ -1,0 +1,6 @@
+employeename
+employeeid
+empsalary
+location
+
+
